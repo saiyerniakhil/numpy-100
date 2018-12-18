@@ -5,7 +5,7 @@ A NumPy array can be created using array() function from the NumPy module.
 ## Creating arrays using arange() method
 
 What does an arange() function do?
-arange (not arrange!) a_range, which is self explanatory, creates a numpy array with a range from 0 to 10(excluding 10).
+arange (not arrange!) a_range, which is self explanatory, creates a numpy array with a range from 0 to given range(excluding end value).
 
 syntax:
 numpy.arange(start,stop,step)
