@@ -24,7 +24,7 @@ Division:
 
 to find logarithm of all elements of the array
 
-c = np.log(a) 
+```c = np.log(a) ```
 
 find square root of all elements of the array
 
